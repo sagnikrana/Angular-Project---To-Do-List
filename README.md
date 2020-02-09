@@ -2,12 +2,12 @@
 A simple to do list web based app
 
 Important commands <br>
-To see the version $npm --version
-Installing angular CLI globally, to generat eangular application anywhere on your machine $sudo npm install -g @angular/cli
-Creating angular application $ng new Angular-Project--To-Do-List
-Running the application  $ng serve --open
-Generating components (creating folders)  $ng generate component components/todos
-Generating components (alternative way - shorter)  $ng g c components/ToDoItem
+<b>To see the version </b> $npm --version
+<b>Installing angular CLI globally, to generat eangular application anywhere on your machine</b> $sudo npm install -g @angular/cli
+<b>Creating angular application</b> $ng new Angular-Project--To-Do-List
+<b>Running the application</b>  $ng serve --open
+<b>Generating components (creating folders)</b>  $ng generate component components/todos
+<b>Generating components (alternative way - shorter)</b>  $ng g c components/ToDoItem
 
 Few things to note down <br>
 1. New components has to be added in app.module.ts -> @NgModule -> declarations <br>
